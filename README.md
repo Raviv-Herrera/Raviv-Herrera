@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raviv-Herrera a Data Scientist and algorithms Engineer. 
-- 👀 I’m interested in Applied Mathematics subjects such as Data Science, Computer Vision, Numerical Analysis and optimiaztion algorithms and how they can be used for sport analysis ⚽.
+- 👀 I’m interested in Applied Mathematics subjects such as Data Science, Computer Vision, Numerical Analysis and optimiaztion algorithms and how they can be used for sport analysis ⚽ and finance\economy 💵.
 - 👀 In addition I love to implement and research those subjects via coding and developing a robust and efficient code. 
 - 🌱 I’m currently pursuing my M.Sc in Applied Mathematics in Data Science program in Bar-Ilan University, Israel. 
 - 📫 How to reach me : ravivhe94@gmail.com
