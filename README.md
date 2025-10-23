@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me  
+## 🚀 About Me  
 I’m a Quantitative Researcher & Data Scientist passionate about turning mathematical ideas into real trading strategies.  
 My main goal is to **leverage the knowledge and tools I’ve built to generate consistent profits from the market** 💰💰💰 — combining research, data, and disciplined execution.
  I focus on **quantitative modeling**, **market behavior**, and **algorithmic trading systems**
@@ -21,11 +21,11 @@ My main goal is to **leverage the knowledge and tools I’ve built to generate c
 
 ---
 
-### 💡 Projects  
+## 💡 Projects  
 - **finr** — Python library for finance research  
 ---
 
-### 🎓 M.Sc. Thesis  
+## 🎓 M.Sc. Thesis  
 
 My master’s thesis focused on **characterizing power-law distributions in financial markets** and improving the estimation of their parameters in heavy-tailed data.  
 
