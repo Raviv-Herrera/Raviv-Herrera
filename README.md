@@ -11,7 +11,7 @@
 ### 🚀 About Me  
 I’m a Quantitative Researcher & Data Scientist passionate about turning mathematical ideas into real trading strategies.  
 My main goal is to **leverage the knowledge and tools I’ve built to generate consistent profits from the market** 💰💰💰 — combining research, data, and disciplined execution.
-I focus on **quantitative modeling**, **market behavior**, and **algorithmic trading systems**
+ I focus on **quantitative modeling**, **market behavior**, and **algorithmic trading systems**
 
 🧩 Love working on:  
 - Quantitative modeling & stochastic processes  
