@@ -15,8 +15,9 @@ I focus on **quantitative modeling**, **market behavior**, and **algorithmic tra
 
 🧩 Love working on:  
 - Quantitative modeling & stochastic processes  
-- Options and stocks algorithmic trading 
-- Discovering interesting insights hidden in market data 📊  
+- Algorithmic trading systems & market simulations
+- Discovering interesting insights hidden in market data 📊
+- Studying **power-law behavior** to better understand extreme movements in stocks 📉  
 
 ---
 
