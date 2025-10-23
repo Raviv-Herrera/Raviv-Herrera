@@ -14,8 +14,8 @@ I study **heavy tails**, **fractional Brownian motion (fBM)**, algorithmic strat
 
 🧩 Love working on:  
 - Quantitative modeling & stochastic processes  
-- Options, volatility, and market risk  
-- fBM / fGn simulations and heavy-tail analysis  
+- Option and stocks algorithmic trading 
+- Discovering interesting insights hidden in market data 📊  
 
 ---
 
