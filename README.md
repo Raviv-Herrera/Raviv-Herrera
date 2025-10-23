@@ -37,7 +37,7 @@ My master’s thesis focused on **characterizing power-law distributions in fina
 The research combined analytical derivations, Monte Carlo simulations, and empirical validation on real-world equity data.
 
 
-### 🌐 Find Me ---
+### 🌐 Find Me
 📫 **Email:** [ravivhe94@gmail.com](mailto:ravivhe94@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/raviv-herrera](https://www.linkedin.com/in/raviv-herrera)  
 💻 **GitHub:** [github.com/Raviv-Herrera](https://github.com/Raviv-Herrera)  
