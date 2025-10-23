@@ -29,8 +29,9 @@ I focus on **quantitative modeling**, **market behavior**, and **algorithmic tra
 ---
 
 ### 🎓 MSc Thesis  
-My master’s thesis focused on **characterizing power-law distributions in financial markets** and improving parameter estimation methods for heavy-tailed data.  
-I developed the **LION method**, a resampling-based framework that enhances the robustness and accuracy of tail exponent estimation compared to the classical approaches.  
+My master’s thesis focused on **characterizing power-law distributions in financial markets** and improving the estimation of their parameters in heavy-tailed data.  
+The goal of this research was to gain a deeper understanding of **extreme events and tail behavior in stock returns**, enabling more accurate modeling of **market risk** and better **calibration of option pricing models**.  
+The work combined analytical derivations, Monte Carlo simulations, and empirical validation on real-world equity data.
 
 
 ### 🌐 Find Me  
