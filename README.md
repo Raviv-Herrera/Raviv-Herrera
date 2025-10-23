@@ -22,10 +22,7 @@ I focus on **quantitative modeling**, **market behavior**, and **algorithmic tra
 ---
 
 ### 💡 Projects  
-- **finr** — Python library for finance research (tails, fBM, Hurst, options)  
-- **Option-Chain** — Streamlit app for options analytics  
-- **Thesis** — Power-law tails with exponential cutoff (LION Method)  
-
+- **finr** — Python library for finance research  
 ---
 
 ### 🎓 MSc Thesis  
