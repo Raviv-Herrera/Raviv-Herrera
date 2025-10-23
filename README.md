@@ -25,7 +25,7 @@ My main goal is to **leverage the knowledge and tools I’ve built to generate c
 - **finr** — Python library for finance research  
 ---
 
-### 🎓 MSc Thesis  
+### 🎓 M.Sc Thesis  
 
 My master’s thesis focused on **characterizing power-law distributions in financial markets** and improving the estimation of their parameters in heavy-tailed data.  
 
