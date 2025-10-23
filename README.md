@@ -28,6 +28,11 @@ I focus on **quantitative modeling**, **market behavior**, and **algorithmic tra
 
 ---
 
+### 🎓 MSc Thesis  
+My master’s thesis focused on **characterizing power-law distributions in financial markets** and improving parameter estimation methods for heavy-tailed data.  
+I developed the **LION method**, a resampling-based framework that enhances the robustness and accuracy of tail exponent estimation compared to the classical approaches.  
+
+
 ### 🌐 Find Me  
 📫 **Email:** [ravivhe94@gmail.com](mailto:ravivhe94@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/raviv-herrera](https://www.linkedin.com/in/raviv-herrera)  
