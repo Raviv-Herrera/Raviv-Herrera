@@ -22,7 +22,7 @@ My main goal is to **leverage the knowledge and tools I’ve built to generate c
 ---
 
 ## 💡 Projects  
-- **finr** — Python library for finance research  
+- **finRav** — Python library for finance research  
 ---
 
 ## 🎓 M.Sc. Thesis  
