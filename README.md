@@ -2,7 +2,7 @@
 <h2 align="center"> 👋 I'm Raviv — Quantitative Researcher & Algo Trader</h2>
 
 <p align="center">
-  <em>M.Sc. in Applied Mathematics · Bar-Ilan University</em><br>
+  <em>M.Sc. in Applied Mathematics and Statistics · Bar-Ilan University</em><br>
   Exploring how <b>math</b>, <b>code</b>, and <b>markets</b> connect 📈
 </p>
 
