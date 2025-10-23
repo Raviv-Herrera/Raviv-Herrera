@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Raviv-Herrera a Data Scientist and Quantitative Researcher. 
-- 👀 I’m interested in Applied Mathematics subjects such as Data Science, Computer Vision, Numerical Analysis and optimiaztion algorithms and how they can be used for sport analysis ⚽ and finance\economy 📈💵.
-- 👀 In addition I love to implement and research those subjects via coding and developing a robust and efficient code. 
-- 🌱 I’m currently pursuing my M.Sc in Applied Mathematics in Data Science program in Bar-Ilan University, Israel. 
-- 📫 How to reach me : ravivhe94@gmail.com
+### Hey 👋 I'm Raviv
+
+I'm a Quantitative Researcher and Data Scientist with an M.Sc. in Applied Mathematics from Bar-Ilan University.  
+I love exploring how math, code, and markets connect — building models, running simulations, and studying market behavior.  
+
+📫 ravivhe94@gmail.com
 
 <!---
 Raviv-Herrera/Raviv-Herrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
