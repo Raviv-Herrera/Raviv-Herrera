@@ -10,7 +10,7 @@
 
 ### 🚀 About Me  
 I’m a Quantitative Researcher & Data Scientist passionate about turning mathematical ideas into real trading strategies.  
-I study **heavy tails**, **fractional Brownian motion (fBM)**, and **options risk**, and I’m building a research library called **finr** — focused on simulation, calibration, and market behavior.  
+I study **heavy tails**, **fractional Brownian motion (fBM)**, algorithmic strategies, protfolio hedging and **options risk**.
 
 🧩 Love working on:  
 - Quantitative modeling & stochastic processes  
