@@ -29,9 +29,15 @@ I focus on **quantitative modeling**, **market behavior**, and **algorithmic tra
 ---
 
 ### 🎓 MSc Thesis  
+
 My master’s thesis focused on **characterizing power-law distributions in financial markets** and improving the estimation of their parameters in heavy-tailed data.  
-The goal of this research was to gain a deeper understanding of **extreme events and tail behavior in stock returns**, enabling more accurate modeling of **market risk** and better **calibration of option pricing models**.  
-The work combined analytical derivations, Monte Carlo simulations, and empirical validation on real-world equity data.
+
+**Main objectives:**
+- Understand **extreme events and tail behavior** in stock returns.  
+- Improve modeling of **market risk** and **rare phenomena**.  
+- Enhance **calibration of option pricing models** through better tail estimation.  
+
+The research combined analytical derivations, Monte Carlo simulations, and empirical validation on real-world equity data.
 
 
 ### 🌐 Find Me  
