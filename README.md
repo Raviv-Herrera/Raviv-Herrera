@@ -1,5 +1,5 @@
 
-<h3 align="center" style="font-size:24px;"> 👋 I'm Raviv — Quantitative Researcher & Algo Trader</h3>
+<h3 align="center" style="font-size:44px;"> 👋 I'm Raviv — Quantitative Researcher & Algo Trader</h3>
 
 <p align="center">
   <em>M.Sc. in Applied Mathematics and Statistics · Bar-Ilan University</em><br>
