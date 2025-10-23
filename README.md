@@ -1,23 +1,46 @@
-<h3 align="center">Hey there 👋 I'm <strong>Raviv</strong></h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/MU4hRkb.png" alt="banner" width="100%" />
+</p>
+
+<h2 align="center">🧠 I'm Raviv — Quantitative Researcher & Algo Trader</h2>
 
 <p align="center">
-  🎓 M.Sc. in Applied Mathematics — Bar-Ilan University, Israel<br>
-  📊 Data Scientist & Quantitative Researcher<br>
-  💡 Exploring how <b>math</b>, <b>code</b> & <b>markets</b> connect
+  <em>M.Sc. in Applied Mathematics · Bar-Ilan University 🇮🇱</em><br>
+  Exploring how <b>math</b>, <b>code</b>, and <b>markets</b> connect 📈
 </p>
 
 ---
 
-🧠 I’m passionate about modeling market behavior — building simulations, studying heavy tails, and finding structure in uncertainty.  
-🚀 Currently creating **finr**, a finance research library focused on heavy tails, fBM, and options.  
-☕ When I’m not coding, you’ll find me enjoying a good coffee, new ideas, and calm markets.  
-📈 You can also find me on <a href="https://www.tradingview.com/">TradingView</a>, where I share insights and trading ideas.
+### 🚀 About Me  
+I’m a Quantitative Researcher & Data Scientist passionate about turning mathematical ideas into real trading strategies.  
+I study **heavy tails**, **fractional Brownian motion (fBM)**, and **options risk**, and I’m building a research library called **finr** — focused on simulation, calibration, and market behavior.  
+
+🧩 Love working on:  
+- Quantitative modeling & stochastic processes  
+- Options, volatility, and market risk  
+- fBM / fGn simulations and heavy-tail analysis  
 
 ---
 
-📫 **Contact:** [ravivhe94@gmail.com](mailto:ravivhe94@gmail.com)  
-🌐 **GitHub:** [github.com/Raviv-Herrera](https://github.com/Raviv-Herrera)  
-💬 **TradingView:** [@RavivHerrera](https://www.tradingview.com/u/RavivHerrera/)
+### 💡 Projects  
+- **finr** — Python library for finance research (tails, fBM, Hurst, options)  
+- **Option-Chain** — Streamlit app for options analytics  
+- **Thesis** — Power-law tails with exponential cutoff (LION Method)  
+
+---
+
+### 🌐 Find Me  
+📫 **Email:** [ravivhe94@gmail.com](mailto:ravivhe94@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/raviv-herrera](https://www.linkedin.com/in/raviv-herrera)  
+💻 **GitHub:** [github.com/Raviv-Herrera](https://github.com/Raviv-Herrera)  
+📈 **TradingView:** [@ravivhe94](https://www.tradingview.com/u/ravivhe94/)
+
+---
+
+<p align="center">
+  <i>“Blending theory, data, and intuition — one trade at a time.”</i> ⚖️
+</p>
 <!---
 Raviv-Herrera/Raviv-Herrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
