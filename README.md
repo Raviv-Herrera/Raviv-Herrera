@@ -2,7 +2,7 @@
 <h2 align="center"> 👋 I'm Raviv — Quantitative Researcher & Algo Trader</h2>
 
 <p align="center">
-  <em>M.Sc. in Applied Mathematics · Bar-Ilan University 🇮🇱</em><br>
+  <em>M.Sc. in Applied Mathematics · Bar-Ilan University</em><br>
   Exploring how <b>math</b>, <b>code</b>, and <b>markets</b> connect 📈
 </p>
 
@@ -25,7 +25,7 @@ My main goal is to **leverage the knowledge and tools I’ve built to generate c
 - **finr** — Python library for finance research  
 ---
 
-### 🎓 M.Sc Thesis  
+### 🎓 M.Sc. Thesis  
 
 My master’s thesis focused on **characterizing power-law distributions in financial markets** and improving the estimation of their parameters in heavy-tailed data.  
 
