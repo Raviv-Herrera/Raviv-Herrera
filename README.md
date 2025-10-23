@@ -1,9 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/MU4hRkb.png" alt="banner" width="100%" />
-</p>
 
-<h2 align="center">🧠 I'm Raviv — Quantitative Researcher & Algo Trader</h2>
+<h2 align="center"> 👋 I'm Raviv — Quantitative Researcher & Algo Trader</h2>
 
 <p align="center">
   <em>M.Sc. in Applied Mathematics · Bar-Ilan University 🇮🇱</em><br>
